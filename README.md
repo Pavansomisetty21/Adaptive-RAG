@@ -1,1 +1,1 @@
-# Self-Reflective-RAG
+# Adaptive-RAG
